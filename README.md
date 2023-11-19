@@ -1,5 +1,3 @@
-## Eu sou o Vinícius, desenvolvedor fullstack e instrutor de programação!
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbasilioo&show_icons=true&theme=radical) 
 
 <div style="display: inline_block"><br>
