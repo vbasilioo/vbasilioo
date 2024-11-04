@@ -1,4 +1,4 @@
-<h2 align="left">Vinícius Basílio, Mobile & Fullstack Developer</h2>
+<h2 align="center">Vinícius Basílio, Mobile & Fullstack Developer</h2>
 
 ###
 
@@ -9,13 +9,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="250" src="https://i.pinimg.com/564x/a9/8c/ef/a98cef81d9968637981fed0a46fccd9b.jpg"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
@@ -39,7 +33,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@dev-vinicius-basilio" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
